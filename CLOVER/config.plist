@@ -148,8 +148,10 @@
 		<true/>
 		<key>Secure</key>
 		<false/>
+		<key>DefaultVolume</key>
+		<string>macOS</string>
 		<key>Timeout</key>
-		<integer>5</integer>
+		<integer>0</integer>
 	</dict>
 	<key>Devices</key>
 	<dict>
@@ -452,7 +454,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>bluemac</string>
+		<string>embedded</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
